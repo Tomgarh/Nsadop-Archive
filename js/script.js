@@ -162,6 +162,196 @@ const people = [
     
         description:
             "Associate Professor Kechi Kankpang is the fifth Professor of Nsadep in the making. He joined the University of Calabar as a Graduate Assistant in the Department of Accounting and, through hard work and dedication, rose to the rank of Associate Professor. He is presently the Head of the Department of Accounting, University of Calabar."
+    },
+
+    {
+        id: 7,
+    
+        name:
+            "Hon. Isidor Obi Nyiam",
+    
+        category:
+            "people",
+    
+        year:
+            "Contemporary",
+    
+        image:
+            "images/people/isidorobi.jpeg",
+    
+        description:
+            "Hon. Isidor Obi Nyiam has been elected Councillor to represent the people of Boje Ward in Boki Local Government Council."
+    },
+
+    {
+        id: 8,
+    
+        name:
+            "Hon. Edward Etta Ogon",
+    
+        category:
+            "people",
+    
+        year:
+            "Contemporary",
+    
+        image:
+            "images/people/edogon.jpeg",
+    
+        description:
+            "Hon. Edward Etta Ogon has been elected into the Ikom/Boki Federal Constituency and has been appointed as Commissioner for Justice, Environment and Works in the Cross River State Executive Council."
+    },
+
+    {
+        id: 9,
+    
+        name:
+            "Late Hon. Patrick Obi Owan",
+    
+        category:
+            "people",
+    
+        year:
+            "Late",
+    
+        image:
+            "images/people/patowan.jpeg",
+    
+        description:
+            "Late Hon. Patrick Obi Owan was elected to represent the people of Boje Ward in the Boki Local Government Executive Council."
+    },
+
+    {
+        id: 10,
+    
+        name:
+            "Hon. Beatrice Etta Nyiam",
+    
+        category:
+            "people",
+    
+        year:
+            "Contemporary",
+    
+        image:
+            "images/people/beatnyiam.jpeg",
+    
+        description:
+            "Hon. Beatrice Etta Nyiam has served as Director of the Cross River State Post Primary Education Board and was the pioneer State Director of JAMB in Cross River State. She is presently the elected Executive Chairperson of Boki Local Government Area."
+    },
+
+    {
+        id: 11,
+    
+        name:
+            "Late Chief Sir Celestine Osim Tawo",
+    
+        category:
+            "people",
+    
+        year:
+            "Late",
+    
+        image:
+            "images/people/cot.jpeg",
+    
+        description:
+            "Late Chief Sir Celestine Osim Tawo was an astute son of Nsadep who contributed significantly to the development of the community. He served as Commissioner for Commerce and Industry in Cross River State and played an important role in the establishment of Community Secondary School Nsadep (NASCO), including providing a bus for the school in the early 1980s. Sir Celestine Tawo also masterminded the creation of Nsadep as a Clan and remained a true son of the land."
+    },
+
+    {
+        id: 12,
+    
+        name:
+            "Hon. Chief Edward Ekpang Nyiam",
+    
+        category:
+            "people",
+    
+        year:
+            "Contemporary",
+    
+        image:
+            "images/people/eenyiam.jpeg",
+    
+        description:
+            "Hon. Chief Edward Ekpang Nyiam is a respected son of Boki Nation and is widely known as the first Sole Administrator of Boki Local Government Area following its creation in the early 1990s."
+    },
+
+    {
+        id: 13,
+    
+        name:
+            "Late Ata Otu Pius Nejie Oku",
+    
+        category:
+            "people",
+    
+        year:
+            "Late",
+    
+        image:
+            "images/people/nejieoku.jpeg",
+    
+        description:
+            "Late Ata Otu Pius Nejie Oku was the first Clan Head of Nsadop."
+    },
+    
+    {
+        id: 14,
+    
+        name:
+            "HRH. Ata Otu Michael Ogor Owan",
+    
+        category:
+            "people",
+    
+        year:
+            "Contemporary",
+    
+        image:
+            "images/people/mikeowan.jpeg",
+    
+        description:
+            "HRH. Ata Otu Michael Ogor Owan is the second and incumbent Clan Head of Nsadop."
+    },
+
+    {
+        id: 15,
+    
+        name:
+            "Late Mr. William Tuku Ogon",
+    
+        category:
+            "people",
+    
+        year:
+            "Late",
+    
+        image:
+            "images/people/willogon.jpeg",
+    
+        description:
+            "Late Mr. William Tuku Ogon was an industrious son of Nsadop."
+    },
+    
+    {
+        id: 16,
+    
+        name:
+            "Dr. Kaizer Obi Etta",
+    
+        category:
+            "people",
+    
+        year:
+            "Contemporary",
+    
+        image:
+            "images/people/obietta.jpeg",
+    
+        description:
+            "Dr. Kaizer Obi Etta is one of Nsadop's medical doctors. He is currently the Medical Director at the University of Calabar Medical Centre."
     }
 
 ];
@@ -477,7 +667,7 @@ if (yearElement) {
        "https://chat.whatsapp.com/XXXXXXXX";
 */
 
-const whatsappLink = "";
+const whatsappLink = "https://chat.whatsapp.com/F8Qsaxa5oOEIH7NVdoIZBl?s=cl&p=i&ilr=2";
 
 
 const whatsappButtons =
