@@ -352,6 +352,105 @@ const people = [
     
         description:
             "Dr. Kaizer Obi Etta is one of Nsadop's medical doctors. He is currently the Medical Director at the University of Calabar Medical Centre."
+    },
+
+    {
+        id: 17,
+        name: "Mr. Sunday Besong",
+        category: "people",
+        year: "Youth Leadership",
+        image: "images/people/sundaybesong.jpeg",
+        description:
+            "Mr. Sunday Besong is one of the Youth Leaders of Nsadop."
+    },
+    
+    {
+        id: 18,
+        name: "Mr. Besong Jimmy",
+        category: "people",
+        year: "Youth Leadership",
+        image: "images/people/besongjimmy.jpeg",
+        description:
+            "Mr. Besong Jimmy is one of the Youth Leaders of Nsadop."
+    },
+    
+    {
+        id: 19,
+        name: "Mr. Takon Etta Besong",
+        category: "people",
+        year: "Youth Leadership",
+        image: "images/people/takonettabesong.jpeg",
+        description:
+            "Mr. Takon Etta Besong is one of the Youth Leaders of Nsadop."
+    },
+    
+    {
+        id: 20,
+        name: "Mr. Richard Obun Obi",
+        category: "people",
+        year: "Youth Leadership",
+        image: "images/people/richardobunobi.jpeg",
+        description:
+            "Mr. Richard Obun Obi is one of the Youth Leaders of Nsadop."
+    },
+    
+    {
+        id: 21,
+        name: "Mr. Fredrick Kankpang Besong",
+        category: "people",
+        year: "Youth Leadership",
+        image: "images/people/fedrickkankpangbesong.jpeg",
+        description:
+            "Mr. Fredrick Kankpang Besong is one of the Youth Leaders of Nsadop."
+    },
+
+    {
+        id: 22,
+        name: "Barr. Christie Okoi",
+        category: "people",
+        year: "Contemporary",
+        image: "images/people/christieokoi.jpeg",
+        description:
+            "Barr. Christie Okoi is one of the female lawyers from Nsadop."
+    },
+    
+    {
+        id: 23,
+        name: "Barr. Destiny Obun Takon",
+        category: "people",
+        year: "Contemporary",
+        image: "images/people/destinyobuntakon.jpeg",
+        description:
+            "Barr. Destiny Obun Takon is a prominent lawyer from Nsadop."
+    },
+    
+    {
+        id: 24,
+        name: "Late Sir James Befufu Tukuson",
+        category: "people",
+        year: "Late",
+        image: "images/people/jamesbefufutukuson.jpeg",
+        description:
+            "Late Sir James Befufu Tukuson was the first man from Nsadop to be inducted as a Noble Knight in the Roman Catholic Church."
+    },
+
+    {
+        id: 25,
+    
+        name:
+            "Late Pa. Nathaniel Takon Bekomson",
+    
+        category:
+            "people",
+    
+        year:
+            "1929 – 2021",
+    
+        image:
+            "images/people/nathanieltakonbekomson.jpeg",
+    
+        description:
+            "Late Pa. Nathaniel Takon Bekomson was born in Nsadop on 29 September 1929. In 1964, he made history as the first university graduate in Boki, earning a Bachelor of Science degree in Agriculture from the University of Ibadan. He later pursued postgraduate studies in Plant Breeding and Agronomy in the United States. He served as a Senior Agricultural Research Officer, Deputy Provost and Head of the Department of Agriculture at the College of Agriculture, Obubra, and later became Provost of the institution. He joined the University of Calabar in 1996 as a lecturer in the Faculty of Agriculture and was recognized for his expertise in Genetics, Plant Breeding and Statistics. Late Pa. Nathaniel Takon Bekomson passed away on 12 June 2021."
     }
 
 ];
