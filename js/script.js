@@ -361,7 +361,7 @@ const people = [
         year: "Youth Leadership",
         image: "images/people/sundaybesong.jpeg",
         description:
-            "Mr. Sunday Besong is one of the Youth Leaders of Nsadop."
+            "Mr. Sunday Besong was one of the Youth Leaders of Nsadop."
     },
     
     {
@@ -371,7 +371,7 @@ const people = [
         year: "Youth Leadership",
         image: "images/people/besongjimmy.jpeg",
         description:
-            "Mr. Besong Jimmy is one of the Youth Leaders of Nsadop."
+            "Mr. Besong Jimmy was one of the Youth Leaders of Nsadop."
     },
     
     {
@@ -381,7 +381,7 @@ const people = [
         year: "Youth Leadership",
         image: "images/people/takonettabesong.jpeg",
         description:
-            "Mr. Takon Etta Besong is one of the Youth Leaders of Nsadop."
+            "Mr. Takon Etta Besong was one of the Youth Leaders of Nsadop."
     },
     
     {
@@ -391,7 +391,7 @@ const people = [
         year: "Youth Leadership",
         image: "images/people/richardobunobi.jpeg",
         description:
-            "Mr. Richard Obun Obi is one of the Youth Leaders of Nsadop."
+            "Mr. Richard Obun Obi was one of the Youth Leaders of Nsadop."
     },
     
     {
@@ -401,7 +401,7 @@ const people = [
         year: "Youth Leadership",
         image: "images/people/fedrickkankpangbesong.jpeg",
         description:
-            "Mr. Fredrick Kankpang Besong is one of the Youth Leaders of Nsadop."
+            "Mr. Fredrick Kankpang Besong is the incumbent the Youth President of Nsadop."
     },
 
     {
